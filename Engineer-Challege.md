@@ -76,7 +76,7 @@ Patient Polly stayed for 24.0 hours and 0.0 minutes and received 2 treatments
 
 There are a lot of different ways to tackle technical interviewing - and even more ways to solve problems. The problem above could even be solved in the space of a function if you really wanted. However, we're looking to understand how you model problems and how you thinking about testing and running your code, so it's important that you build with enough complexity to demonstrate your skill in those areas.
 
-So to show your stuff, this needs a little bit more complexity than the problem calls for, but don't go nuts - you don't need to build an enormously complex piece of software.
+So to show your stuff - this needs a little bit more complexity than the problem calls for - but don't go nuts. You don't need to build an enormously complex piece of software, we just want to know how you think.
 
 We want to understand how you approach problems, so make sure to detail your thinking in your README. You can model data however you like, but make sure to explain why you chose what you did.
 
