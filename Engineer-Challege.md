@@ -12,7 +12,9 @@ Each line of the input will begin with a type marker, either "Patient" or "Actio
 
 "Patient" will register a patient in the application, and will look like the following:
 
-`Patient John`
+```
+Patient John
+```
 
 "Action" will add an action to a patient, and will have an action type and action time. The list of available actions are "Intake", "Discharge", "Treatment"
 
