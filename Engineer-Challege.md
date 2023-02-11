@@ -41,7 +41,7 @@ Every patient should have both an Intake and Discharge, but Intakes and Discharg
 
 Every patient should have at least one treatment.
 
-Discharge should always be after Intake.
+The Discharge date and time should always be after the Intake date and time.
 
 Example Input:
 
