@@ -37,7 +37,7 @@ We want to track patients, the duration of their stay in hours and minutes, and 
 
 A correct input will always have a patient before any actions taken on that patient, but may have patients and actions at any place in the file.
 
-Every patient should have both an Intake and Discharge, but Intakes and Discharges can come in any order
+Every patient should have both an Intake and Discharge, but Intakes and Discharges can come in any order.
 
 Every patient should have at least one treatment.
 
