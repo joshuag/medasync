@@ -6,7 +6,7 @@ Package your code as a tarball, zip, or a gitbundle and send it to us when you h
 
 # Problem Statement
 
-Medasync processes streams of data and analyzes them to help our customers understand things they might be missing. You're going to write a something to process an input file that contains patients and actions. You can accept this file via stdin or as a filename given as an argument on the command line. 
+Medasync processes streams of data and analyzes them to help our customers understand things they might be missing. You're going to write something to process an input file that contains patients and actions. You can accept this file via stdin or as a filename given as an argument on the command line. 
 
 Each line of the input will begin with a type marker, either "Patient" or "Action".
 
