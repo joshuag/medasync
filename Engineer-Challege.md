@@ -25,7 +25,9 @@ Action Discharge John 2023-01-15T15:58:00Z
 
 "Treatment" has a patient, date and time, and a four digit treatment code. For example:
 
-`Action Treatment John 2023-01-09T09:45:00Z F5GZ`
+```
+Action Treatment John 2023-01-09T09:45:00Z F5GZ
+```
 
 We want to track patients, the duration of their stay in hours and minutes, and how many different treatments they received.
 
